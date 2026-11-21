@@ -1,2 +1,6 @@
-# PLACE-IDENTIFIER-KOTA-BOGOR-PROTOTYPE
-HALO SAYA EDELWEEIS CR DENGAN NPM 2315071072, UNTUK MENCOBA APAKAH KONSEP PLACE IDENTIFIER DAPAT DI TERAPKAN DI INDONESIA 
+# WebGIS Place Identifier (data dummy)
+
+Buka lewat GitHub Pages: Settings → Pages → Deploy from a branch → `main` / `(root)`.
+Alamat: `https://<username>.github.io/<nama-repo>/`
+
+Semua data dummy dan terenkripsi di sisi browser (NIK/KK/nomor bidang + kata sandi).
